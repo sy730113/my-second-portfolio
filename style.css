@@ -1,0 +1,177 @@
+.Top{
+  
+   width:100%;
+background-color: #95eddd;
+}
+.top-cloud{
+   width: 100%;
+   height: 100px;
+
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.top-cloud .cloud1{
+
+   height: 66px;
+   width: 200px;
+   margin-left: 300px;
+   background-image: url("cloud.png");
+   background-size: contain;
+}
+
+.name h1{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size:4rem;
+   color: rgb(33, 152, 152);
+ 
+}
+.name h2{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color:#66bfbf ;
+   font-family:"Montserrat", sans-serif ;
+   font-size:2.5rem ;
+   font-weight: normal;
+}
+.bottom-cloud{
+   margin-right: 800px;
+   height: 40px;
+   height: 40px;
+   width: 200px;
+   margin-left: 300px;
+   background-image: url("cloud.png");
+   background-size: contain;
+}
+.mountain1{
+ margin-left: 300px;
+}
+.hello{
+  display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.photo{
+   margin-top: 50px;
+   height: 100px;
+   width: 100px;
+   background-color: rgba(161, 164, 150, 0.939);
+   border-radius: 50%;
+   background-image: url(625098-dell.jpg);
+   background-size: cover;
+   margin-left: 90px;
+}
+.hello .round h1{
+   color: rgb(37, 152, 152);
+   margin-left: 100px;
+   font-size: 2rem;
+}
+.skills{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 50px;
+}
+
+.skills h1{
+   padding-bottom: 50px;
+   font-size: 2rem;
+   color: rgb(37, 152, 152);
+   padding-left: 200px;
+}
+.skills .my-skills img{
+   float: left;
+}
+  
+.skills .my-skills h3{
+   color: #66bfbf;
+}
+.fitness{
+   height: 70px;
+   width: 70px;
+   border-radius: 50%;
+   background-color: rgba(161, 164, 150, 0.939);
+   margin-top: 50px;
+   background-image: url("Untitled.jpg");
+   background-size: cover;
+}
+.hot-wings{
+   width: 100%;
+}
+.hot-wings{
+ display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.hot-wings .fitness{
+
+}
+.hot-wings h3{
+color: #66bfbf;
+margin-top: 50px;
+}
+.fit{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.fitboy{
+   margin-left: 60px;
+}
+.button{
+   height: fit-content;
+   width: fit-content;
+}
+.get{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.get h1{
+   margin-top: 100px;
+   margin-left: 100px;
+   color: rgb(54, 212, 212);
+
+}
+.get h2{
+  font-weight: bold;
+   color: rgb(69, 205, 205);
+
+}
+.button{
+   background-color: #46b5a1;
+   padding: 5px;
+   color: white;
+   font-size: 1.2rem;
+   border-radius: 10px;
+   margin-left: 100px;
+}
+.get p{
+   margin-left: 50px;
+}
+.app{
+   height: 150px;
+   width: 100%;
+   background-color:rgba(33, 142, 142, 0.737);
+   margin-top: 50px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.sky{
+   color: white;
+}
+.connect{
+   height: 20px;
+   width: 300px;
+   
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+
+}
